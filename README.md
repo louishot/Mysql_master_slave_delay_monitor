@@ -55,4 +55,7 @@ Maximum_notification=3
 ```
 
 
-
+- create a crontab task Run every minute
+```
+* * * * * /script/cron.sh
+```
