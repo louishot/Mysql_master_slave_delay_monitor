@@ -30,7 +30,8 @@ pt-heartbeat -D test --check -h localhost --master-server-id=100 -u mysqluser -p
 - Example output like:
 
 
-```[root@mysql2 ~]# pt-heartbeat -D test --check -h localhost --master-server-id=100 -u root -p root
+```
+[root@mysql2 ~]# pt-heartbeat -D test --check -h localhost --master-server-id=100 -u root -p root
 0.00
 ```
 
